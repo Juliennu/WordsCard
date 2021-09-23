@@ -1,0 +1,5 @@
+# WordsCard
+
+# Environment
+- Xcode
+- SwiftUI
